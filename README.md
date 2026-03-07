@@ -5,10 +5,6 @@ Exercise 1 for the NLP course at UPF. This project investigates whether Zipf’s
 - Python 3.11.4 
 
 Libraries: 
-- spaCy version 3.8.11
-  - spaCy language models:
-      - English: en_core_web_sm version 3.8.0 
-      - Catalan: ca_core_news_sm version 3.8.0
-- matplotlib version 3.10.8
-- re
-- pathlib 
+- torch: 2.9.1
+- matplotlib: 3.10.7
+- pandas: 2.3.3
